@@ -19,7 +19,7 @@ const monoFont = IBM_Plex_Mono({
     variable: "--font-mono",
 });
 
-const siteUrl = "https://ragnarokftc.com";
+const siteUrl = "https://www.ragnarokftc.com";
 const siteName = "24358 Ragnarok";
 const siteDescription =
     "A best-in-state robotics team focused on bringing the cutting edge of robotics to student engineers.";

@@ -10,7 +10,7 @@
 
 export const seoConfig = {
     // Base Site Information
-    siteUrl: "https://ragnarokftc.com",
+    siteUrl: "https://www.ragnarokftc.com",
     siteName: "24358 Ragnarok",
     siteTitle: "Ragnarok FTC Team 24358 | Waukee, Iowa Robotics",
 

@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { seasons } from "@/data/seasons";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = "https://ragnarokftc.com";
+    const baseUrl = "https://www.ragnarokftc.com";
 
     // Static routes
     const routes = [

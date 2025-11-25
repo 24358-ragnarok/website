@@ -1,7 +1,7 @@
 import { teamInfo } from "@/data/team-info";
 
 export default function StructuredData() {
-    const siteUrl = "https://ragnarokftc.com";
+    const siteUrl = "https://www.ragnarokftc.com";
 
     const organizationSchema = {
         "@context": "https://schema.org",

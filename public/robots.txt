@@ -1,8 +1,8 @@
 # robots.txt for Ragnarok FTC Team 24358
-# https://ragnarokftc.com
+# https://www.ragnarokftc.com
 
 # Sitemap location
-Sitemap: https://ragnarokftc.com/sitemap.xml
+Sitemap: https://www.ragnarokftc.com/sitemap.xml
 
 # Default rules for all crawlers
 User-agent: *
