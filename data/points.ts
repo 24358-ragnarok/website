@@ -46,6 +46,9 @@ export const points: PointsData = {
     Grant: {
         existing: 1_000_000_000,
     },
+    Ella: {
+        femchungus: 7,
+    },
 };
 
 /**
