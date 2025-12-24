@@ -31,7 +31,7 @@ export const members: Member[] = [
     {
         id: "connor-israel",
         name: "Conner Israel",
-        role: "Captain • Lead Engineer",
+        role: "Captain • Head of Engineering",
         image: "/images/members/conner.png",
         bio: "Conner is the Lead Engineer of Ragnarok, and Captain in partnership with Ben. Conner has vast experience in engineering design, CAD, and system analysis. This is his third and final season in FIRST and he enjoys the growth opportunities and leadership as a Captain in FTC. He is excited to continue his journey in robotics engineering at college next year.",
         years: [2023, 2024, 2025],
@@ -48,7 +48,7 @@ export const members: Member[] = [
     {
         id: "ben-boonstra",
         name: "Ben Boonstra",
-        role: "Co-Captain • Lead Developer",
+        role: "Co-Captain • Head of Programming",
         image: "/images/members/ben.png",
         bio: "Ben is both the Lead Developer and Co-Captain of Ragnarok, totalling three years in FTC. He uses his extensive experience in systems programming and object-oriented design to create award-winning FTC software, along  with his web development and brand management skills to elevate Ragnarok's presence. Ben will continue his journey in computer science in college next year.",
         years: [2023, 2024, 2025],
@@ -196,5 +196,5 @@ export const alumni: Member[] = [
         bio: "Aditya is the founder of this team, which he originally named 'Metallum Ultorum'. Now he is a mentor, providing feedback and advice for Ragnarok.",
         years: [2023, 2024],
         isAlumni: true,
-    }
+    },
 ];
